@@ -14,15 +14,18 @@ http://wiki.gamedetectives.net/index.php?title=Sombra_ARG
 ## Setup and Dependencies
 
 #### Required dependencies
-*node.js* <i style="color: #B22222">(Required)</i>
+*node.js* (Required)
+
 Node allows you to run javascript code outside of the browser. Download and install it from here:
 https://nodejs.org/en/download/
 
-*ffmpeg* <i style="color: #32CD32">(Included for Windows)</i>
+*ffmpeg* (Included for Windows)
+
 This command line program contains tons of tool for manipulating and encoding video. You do not need to install it, just download the 'static' build from here:
 https://www.ffmpeg.org/download.html
 
-*imagemagick* <i style="color: #32CD32">(Included for Windows)</i>
+*imagemagick* (Included for Windows)
+
 This command line program contains tons of image creation and manipulation tools. You do not need to install it, just download the 'portable' from here:
 http://www.imagemagick.org/script/binary-releases.php
 
@@ -36,7 +39,7 @@ http://www.imagemagick.org/script/binary-releases.php
  - Execute the command: npm install
 
 
- ## Running the program
+## Running the program
 
 Once setup if complete you can use the tool as follows:
  - Open up the file 'config.json' in a text editor
