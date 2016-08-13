@@ -15,17 +15,14 @@ http://wiki.gamedetectives.net/index.php?title=Sombra_ARG
 
 #### Required dependencies
 *node.js* (Required)
-
 Node allows you to run javascript code outside of the browser. Download and install it from here:
 https://nodejs.org/en/download/
 
 *ffmpeg* (Included for Windows)
-
 This command line program contains tons of tool for manipulating and encoding video. You do not need to install it, just download the 'static' build from here:
 https://www.ffmpeg.org/download.html
 
 *imagemagick* (Included for Windows)
-
 This command line program contains tons of image creation and manipulation tools. You do not need to install it, just download the 'portable' from here:
 http://www.imagemagick.org/script/binary-releases.php
 
