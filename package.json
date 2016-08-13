@@ -1,0 +1,16 @@
+{
+    "name": "arg-video-diff",
+    "version": "1.0.0",
+    "main": "video_diff.js",
+    "author": "Endain",
+    "license": "Unlicense",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Endain/arg-video-diff.git"
+    },
+    "homepage": "https://github.com/Endain/arg-video-diff",
+    "dependencies": {
+        "fs-jetpack": "~0.9.2",
+        "youtube-dl": "~1.11.1"
+    }
+}
